@@ -16,8 +16,8 @@ In this game, you need to turn all 1 numbers to 0!
   The score.txt will be useful to save your best score.
   </div>
 <div align="center">
-<img src="https://github.com/dubernardon/My-Computer-Engineering-Graduation/assets/102065589/961c6ecf-c55e-4022-9ec4-49db90ff20e1" >
-<img src="https://github.com/dubernardon/My-Computer-Engineering-Graduation/assets/102065589/8d65ec61-bb94-4adf-a337-a322dc8bbef3" >
+<img src="https://github.com/dubernardon/My-Graduation-Tests/assets/102065589/0a6835bd-d44d-45f5-a145-7f3c2af9b441" >
+<img src="https://github.com/dubernardon/My-Graduation-Tests/assets/102065589/dcae477d-cbc2-4105-940f-c0e59e3bd120" >
   </div>
   <div align="center"> 
  🙋‍♂️ Thanks for visiting my repository!
