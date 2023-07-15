@@ -127,7 +127,7 @@ Para comparar o aperfeiçoamento do algoritmo 2 em relação ao 1, foi realizado
 |1000 macacos – 100000 rodadas |Excedeu o tempo de teste|0,484419 segundos |649 |
 
 **\*Tempo de teste = 30 minutos.** 
-
+**\*Alguns casos de teste não estão disponíveis no github devido ao tamanho do arquivo (excede 25mb).**
 **\*O tempo calculado foi adquirido pela função “clock()” da biblioteca “time.h”.** 
 
 **Conclusão:** 
