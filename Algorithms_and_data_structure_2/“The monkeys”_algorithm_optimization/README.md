@@ -1,9 +1,5 @@
 ﻿#  Otimização do algoritmo “os macaquinhos” 
 
-Eduardo B. Cozer, Luiz Felipe S. Ramalho, Engenharia de Computação — PUCRS  
-
-17 de abril de 2023 
-
 **Resumo** 
 
 Esse trabalho trata-se de uma comparação entre um algoritmo não otimizado em relação a otimização. Nesse caso teste, o algoritmo será sobre uma suposta atividade realizada entre macacos proposta na disciplina de Algoritmos e estrutura de dados 2 no terceiro semestre. São descritos dois algoritmos distintos os quais suprem a mesma necessidade e analisados. Logo após, é apresentado o resultado de cada algoritmo (tempo de execução e o macaco vencedor), e uma conclusão do trabalho.   
